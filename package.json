@@ -1,0 +1,19 @@
+{
+  "name": "readmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "readmd": "./bin/index.js"
+  },
+  "author": "rahsu",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "markdown-it": "^8.4.0",
+    "open": "0.0.5"
+  }
+}
